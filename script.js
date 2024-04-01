@@ -1,23 +1,3 @@
-// let todoList=[];
-// DisplayItems();
-// function addTodo(){
-//     let inputElement=document.querySelector('#inputtext');
-//     let item = inputElement.value;
-//     todoList.push(item);
-//     inputElement.value='';
-    
-//     DisplayItems();
-    
-// }
-// function DisplayItems(){
-//     let Display=document.querySelector('#DisplayElement');
-//    for(let i=0; i<todoList.length; i++){
-//     Display.innerHTML= Display.innerHTML + todoList[i];
-//    }
-
-// }
-// DisplayItems();
-
 let todoList = [
     {
       item: 'Buy Milk',
